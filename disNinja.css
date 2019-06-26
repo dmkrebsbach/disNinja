@@ -1,0 +1,28 @@
+h1 {
+    width: 1000px;
+    text-align: center;
+}
+
+div.pictures {
+    width: 1000px;
+    display: inline-block;
+}
+
+img {
+    width: 225px;
+    margin: 10px;
+    border: 1px solid red;
+}
+
+button {
+    display: block;
+    background-color: red;
+    color: white;
+    height: 25px;
+    width: 150px;
+    outline: 5px solid blue;
+    text-align: center;
+    margin: 25px 420px;
+
+
+}
